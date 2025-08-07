@@ -1,4 +1,4 @@
-# Final-Project---Titanic
+# Final-Project - Titanic
 ## 1. Exploratory Data Analysis (EDA)
 
 The goal of this project is to predict which kinds of people were more likely to survive the Titanic disaster.
